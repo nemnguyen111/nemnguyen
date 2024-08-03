@@ -3,6 +3,14 @@
   --bg: #0a0a0a;
   --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
 }
+@font-face {
+    font-family: 'VfWedding05';
+    src: url('https://github.com/nemnguyen111/nemnguyen/blob/main/VfWedding05.ttf') format('truetype');
+}
+
+body {
+    font-family: 'VfWedding05', sans-serif;
+}
 
 body {
   font-size: 1.2rem;
@@ -517,3 +525,4 @@ footer a:hover {
       }
       
 }
+
